@@ -1,20 +1,5 @@
 # Stock Data Pipeline with Python and Google Cloud
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/website-storage-bucket/icons/danger.svg">
->   <img alt="Tip" src="https://storage.googleapis.com/website-storage-bucket/icons/danger.svg">
-> </picture><br>
-> This project is now archived. The visualization still works but has stopped being updated as of March 30th, 2022. Archival was set due to no longer wanting to pay for API usage.
-
-
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://storage.googleapis.com/website-storage-bucket/icons/warning.svg">
->   <img alt="Tip" src="https://storage.googleapis.com/website-storage-bucket/icons/warning.svg">
-> </picture><br>
-> Any data in this project or on my website is for informational purposes only and should not be taken as invesment advice.
-
-<br>
-
 <div>
     <img alt="Version" src="https://img.shields.io/badge/Project Number-1-orange.svg?cacheSeconds=2592000" />
 </div>
